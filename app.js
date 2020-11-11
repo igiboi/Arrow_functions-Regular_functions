@@ -5,7 +5,7 @@ const luigi = {
   year: 1994,
   calcAge: function () {
    // console.log(this);
-    console.log(2037 - this.year);
+    console.log(2020 - this.year);
 
     // Pre ES6 solution 
     // const self = this; // self or that 
